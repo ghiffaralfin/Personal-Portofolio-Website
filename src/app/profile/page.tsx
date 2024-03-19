@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Profile Page",
   description:
-    "Provides a comprehensive overview of my professional background, including a concise summary, easy-to-access contact information, a showcase of my soft skills, and a detailed list of my technical expertise across various stacks.",
+    "Provides a detailed look into Ghiffar's professional background, featuring a succinct summary, readily available contact information, a demonstration of Ghiffar's soft skills, and an exhaustive list of Ghiffar's technical proficiencies across different stacks.",
 };
 
 import HeroSection from "@/components/profilepage/HeroSection";

@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Projects Page",
   description:
-    "Features a range of endeavors, including the development of a bug reporting application, performance testing of database encryption, crafting an AES/RSA encryption tool, conducting organizational risk assessments, and deploying a DDOS attack application.",
+    "Ghiffar has undertaken a range of projects, such as developing a bug reporting application, conducting performance testing of database encryption, crafting an AES/RSA encryption tool, performing organizational risk assessments, and deploying a DDOS attack application.",
 };
 
 import PageRedirectButton from "@/components/utility/PageRedirectButton";
