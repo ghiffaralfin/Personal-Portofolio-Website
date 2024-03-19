@@ -1,3 +1,5 @@
+"use client";
+
 import LoaderSpinner from "@/components/utility/LoaderSpinner";
 
 export default function Loading() {
